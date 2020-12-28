@@ -3,8 +3,6 @@ package test;
 
 public class StatLib {
 
-
-
     // simple average
     public static float avg(float[] x){
         float total =0;
